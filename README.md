@@ -50,6 +50,12 @@ Project Files
 - "requirements.txt" – Required Python libraries
 - "Cleaned_Hospital_Data.csv" – Cleaned dataset
 
-Authors
+Project Contributors  :
+
+Sandipan Bairagya
+Udit Pramanik
+Debesh Routh 
+Debarshee Ghosh
 
 Hospital Data Analysis Project
+g
