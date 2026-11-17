@@ -58,4 +58,3 @@ Debesh Routh
 Debarshee Ghosh
 
 Hospital Data Analysis Project
-g
